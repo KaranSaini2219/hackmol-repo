@@ -4,7 +4,19 @@
         "In tokenflow, You can buy tokens from market, as well as you can sell your tokens by navigating to list you api from market page",
         "You can view your dashboard once you are logged in.",
         "Make sure you remember your project, we dont support forget password yet",
-        "You cannot assign the price of your listed tokens."
+        "You cannot assign the price of your listed tokens.",
+        "A token is a unit of usage — kind of like a chunk of text the AI processes.\n\nThink of it like:\n1 token ≈ ¾ of a word (on average).\n\nWhen you send a prompt like 'Write a poem,' that prompt might use 5–10 tokens. The AI's response also uses tokens.\n\nSo every time you interact with an AI model — text in, text out — you're spending tokens, and your balance decreases based on that usage.",
+        "Imagine you subscribe to an AI platform — like OpenAI or Hugging Face — and you get a monthly quota of tokens.\n\nBut you don’t always use them all. Maybe you only needed a few hundred, but you paid for thousands. These credits — or ‘tokens’ — just sit there, unused. They expire. They go to waste.\n\nAt the same time, there are students, indie developers, and startups who can’t afford enough tokens to even test their ideas.\n\nSo we asked — what if there was a way to share or lease your unused AI tokens?\n\nThat’s what TokenFlow does. We’re building a secure, peer-to-peer marketplace for unused AI tokens — to make access fairer, smarter, and more efficient.",
+        "TokenFlow is a peer-to-peer marketplace for unused AI tokens.\n\nIf you’ve got extra credits sitting in your account, you can list them on TokenFlow.\n\nIf someone else needs AI access — maybe just for a small project or quick experiment — they can lease or purchase a portion of your credits.\n\nWe handle the listing, negotiation, and secure exchange — so it’s just as smooth as sharing a subscription plan, but built for developers.\n\nYou get value for what you’re not using. They get affordable access. Everyone wins.",
+        "Step 1: Login and Connect\nUsers sign in securely — whether they’re a buyer or seller. All user data is encrypted end-to-end using AES-256 to protect privacy.\n\n",
+        "List Your Tokens\nSellers add their API key from a supported AI platform. TokenFlow verifies their token balance (without storing credentials).\nThey choose how many tokens to list. Pricing is calculated by:\nPrice (₹) = max(20, tokens × 0.001)\nThat’s ₹1 for every 1,000 tokens, with a ₹20 minimum.\nOnce listed, it becomes publicly available to all buyers.\n\n🔹",
+        "Buyer Browses and Bids\nBuyers — like hackathon teams or students — can filter listings by provider (OpenAI, Claude, etc.), token amount, and price range. Once they find a match, they proceed to purchase.\n\n",
+        "Secure Purchase\nPayments are handled via UPI for smooth, trusted transactions. Once paid:\n- Listing is marked as fulfilled\n- Dashboards update for both users\n- Transaction record is stored\n\n",
+        " Token Access Begins\nThe buyer is granted access to the tokens through their TokenFlow dashboard.\n\n",
+        "Reviews and Repeat\nAfterward, both buyer and seller can leave ratings — just like Fiverr or Airbnb — to build trust and reputation. Sellers can keep listing, and buyers can re-purchase or request access from specific sellers.",
+        "TokenFlow is more than just a marketplace — it’s a smarter way to share access to AI.\n\nNo more wasted subscriptions. No more paywalls blocking innovation."
+
+
     ],
     "embeddings": [
         [
