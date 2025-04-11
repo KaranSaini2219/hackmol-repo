@@ -105,6 +105,10 @@ Security: AES-256 encryption
 <img src='visuals\Screenshot 2025-04-11 123500.png'>
 <img src='visuals\Screenshot 2025-04-11 123515.png'>
 <img src='visuals\WhatsApp Image 2025-04-11 at 10.47.46_8efe2368.jpg'>
+
+FLOWCHART:
+
+<img src='visuals\WhatsApp Image 2025-04-11 at 12.47.45_be18f72a.jpg'>
 🔐 Security First
 API key verification without storage
 
